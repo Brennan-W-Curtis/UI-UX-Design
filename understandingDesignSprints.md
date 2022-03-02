@@ -168,7 +168,7 @@
 
 <!-- Review -->
 
-<!-- Identify questions you should ask during a design sprint retrospective. Select all that apply. -->
+<!-- Identify questions you should ask during a design sprint retrospective. -->
 <!-- By knowing what went well, we can repeat it or use it as a lesson for future work. Knowing what didn’t go well is the key to improvement. -->
 
 <!-- Fill in the blank: In a design sprint retrospective, the team works together to review and critique what happened in the sprint the team just finished. -->
@@ -197,3 +197,89 @@
 
 <!-- What is a design sprint brief? -->
 <!-- A document that UX designers share with participants to help them prepare for the design sprint. A design sprint brief includes information, objectives, and timelines to help participants prepare for the design sprint. -->
+
+<!-- Example Design Sprint Brief -->
+
+<!-- Design Sprint - Page 1 -->
+<!-- Brief -->
+
+<!-- SPRINT CHALLENGE: Build exciting new feature for the productivity app in time for relaunch later in the year -->
+
+<!-- What is the challenge that you want to solve in the sprint? -->
+
+<!-- Here are four things that make a great challenge: -->
+<!-- The challenge is something real that the team needs to deliver -->
+<!-- It's states in a way that sounds inspiring - something to solve for -->
+<!-- It's clear and concise -->
+<!-- It includes a time frame (next quarter? 3 years from now?) -->
+
+<!-- Example: Build an exciting new feature for a productivity app in time for relaunch later this year. -->
+
+<!-- KEY DELIVERABLES: A complete prototype that includes the feature update -->
+
+<!-- What do you want the team to create during the sprint? -->
+
+<!-- A few tips for deliverables: -->
+<!-- Aim for the highest quality deliverables possible. Polished digital work, videos, and interactive prototypes are better than sketches. -->
+<!-- List all platforms that need to be designed for - e.g. web, mobile, tablet / physical product + website / environment -->
+
+<!-- Example: Complete prototype that includes the feature update. Or user journey flows for X and Y. -->
+
+<!-- LOGISTICS: -->
+
+<!-- Where: -->
+<!-- When: -->
+<!-- Who: -->
+<!-- Sprint Leader: -->
+
+<!-- APPROVERS: -->
+
+<!-- Internal Stakeholder(s): -->
+
+<!-- Design Sprint - Page 2 -->
+
+<!-- Who needs to sign off on the project so it can launch? -->
+<!-- We want to include this person's view in the sprint, so we can plan a path to launch that's fast and smooth. -->
+
+<!-- RESOURCES: -->
+
+<!-- For short term sprints: Assignment development team, if any: -->
+<!-- It's recommended that you start a design sprint by having assigned development resources to carry the work after the sprint. This is easier in the case of short-term focused sprints. -->
+
+<!-- For long term / vision sprints: Plan to secure resources: -->
+<!-- Vision sprints take a long-term view of planning. In order to succeed, our team needs to have a plan of approvals for how to integrate the sprint within the organizational roadmap. -->
+
+<!-- PROJECT OVERVIEW: -->
+
+<!-- 1. Current state of the project -->
+<!-- What's been created already? -->
+<!-- If this is a new project with no history, say so. If this is a 4 year project with lots of history, summarize. -->
+
+<!-- 2. Roadblocks / Bottlenecks -->
+<!-- What stands in our way? -->
+
+<!-- 3. Early wins, if any. -->
+<!-- Has our team demonstrated any wins or learnings in the space already? -->
+
+<!-- 4. Estimated launch plan -->
+<!-- When is the project launch for the piece we are designing? -->
+<!-- What is this likely to like at launch - e.g., a website, campaign, service, physical product. Be sure to list that in the challenge statement as well. -->
+
+<!-- Design Sprint - Page 3 -->
+
+<!-- Sprint Schedule -->
+
+<!-- DAY 1 - UNDERSTAND -->
+<!-- DAY 2 - IDEATE -->
+<!-- DAY 3 - DESIGN -->
+<!-- DAY 4 - PROTOTYPE -->
+<!-- DAY 5 - TESTING -->
+
+<!-- Additional Resources -->
+<!-- https://designsprintkit.withgoogle.com/ -->
+<!-- https://designsprintkit.withgoogle.com/case-studies -->
+<!-- https://designsprintkit.withgoogle.com/resources/overview -->
+
+<!-- https://uxplanet.org/whats-a-design-sprint-and-why-is-it-important-f7b826651e09#:~:text=A%20Design%20Sprint%20is%20a,and%20testing%20ideas%20with%20customers. -->
+<!-- https://medium.com/inkoniq-blog/inside-a-design-sprint-workshop-at-google-3950b1654f2 -->
+<!-- https://uxplanet.org/3-things-i-learned-from-my-first-design-sprint-ed5d2113afad -->
